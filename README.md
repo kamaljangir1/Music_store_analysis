@@ -1,4 +1,4 @@
-# Online Music Store Analysis
+# Online Music Store Analysis🎵
 Music Connect the world
 
 
@@ -36,16 +36,16 @@ The database schema includes the following tables:
 - **Power Point**: For Presentation
 
 ## Insights
-- Most Invoices by Employee: Andrew Adams, Senior Employee, USA
-- Best Selling Artist: AC/DC
-- Best Selling Album: BIG ONES
-- Best Selling Composer: Alanis Morissette & Glenn Ballard
-- Most Favorite Genre: ROCK
-- Top Customer: František Wichterlová, Czech Republic, 144.54
-- Top Country by Invoices: USA
-- Top City by Total Amount: PRAQUE, 273.24
-- Best Selling Album by Revenue: BIG ONES
-- Best Selling Composer by Revenue: Alanis Morissette & Glenn Ballard
+- 📋 Most Invoices by Employee: Andrew Adams, Senior Employee, USA
+- 🎸 Best Selling Artist: AC/DC
+- 💿 Best Selling Album: BIG ONES
+- 📝 Best Selling Composer: Alanis Morissette & Glenn Ballard
+- 🎵 Most Favorite Genre: ROCK
+- 🏆 Top Customer: František Wichterlová, Czech Republic, 144.54
+- 🏴 Top Country by Invoices: USA
+- 🌆 Top City by Total Amount: PRAQUE, 273.24
+- 💰 Best Selling Album by Revenue: BIG ONES
+- 💵 Best Selling Composer by Revenue: Alanis Morissette & Glenn Ballard
 
 
 ## Contact
